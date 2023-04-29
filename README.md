@@ -1,2 +1,2 @@
 # Python-Exercises
-Here is a list of the python exercises I have done through the years!
+Here is where I keep my weekly python exercises!
